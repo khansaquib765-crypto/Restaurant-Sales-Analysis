@@ -1,6 +1,7 @@
 # 🍽️ Restaurant Sales Analysis Dashboard — Excel
 
-![Restaurant Dashboard](dashboard.png)
+<img src="Restaurant 1 Dashboard.png" width="100%"><br><br>
+<img src="Restaurant 2 Dashboard.png" width="100%"><br><br>
 
 ## 📊 Project Overview
 
